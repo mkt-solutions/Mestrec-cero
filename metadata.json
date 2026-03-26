@@ -1,0 +1,5 @@
+{
+  "name": "Mestre Cícero Rotisserie",
+  "description": "O prazer de comer bem. Saboreie o que há de melhor na região em nosso salão ou no conforto da sua casa.",
+  "requestFramePermissions": ["geolocation"]
+}
